@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Hey, I'm Leandro Atallah!
+Front-End Developer at Webera
+Brazilian, Living in Juiz de Fora, MG
 
-<!--
-**leandroatallah/leandroatallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 What I'm currently learning
+- AdminBro (Auto-generated Admin Panel for your Node.js Application)
+- Strapi (Open-source headless CMS)
+- Material UI (React components for faster and easier web development)
+- English
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 You can find me on
+- [Linkedin](https://www.linkedin.com/in/leandroatallah/)
+- [Instagram](https://www.instagram.com/leandroatallah/)
+- [Twitter](https://twitter.com/leandroatallah/)
