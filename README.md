@@ -4,9 +4,11 @@ Brazilian, Living in Juiz de Fora, MG
 
 ### 📚 What I'm currently learning
 - AdminBro (Auto-generated Admin Panel for your Node.js Application)
-- Strapi (Open-source headless CMS)
 - Material UI (React components for faster and easier web development)
-- English
+
+### 😎 What I learned recently
+- Docker
+- Strapi (Open-source headless CMS)
 
 ### 💻 You can find me on
 - [Linkedin](https://www.linkedin.com/in/leandroatallah/)
