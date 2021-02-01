@@ -5,9 +5,11 @@ Brazilian, Living in Juiz de Fora, MG
 ### 📚 What I'm currently learning
 - AdminBro (Auto-generated Admin Panel for your Node.js Application)
 - Material UI (React components for faster and easier web development)
+- Docker
 
 ### 😎 What I learned recently
-- Docker
+- Ant Design
+- SWR
 - Strapi (Open-source headless CMS)
 
 ### 💻 You can find me on
