@@ -3,6 +3,7 @@ Front-End Developer at Webera
 Brazilian, Living in Juiz de Fora, MG
 
 ### 📚 What I'm currently learning
+- Redux
 - AdminBro (Auto-generated Admin Panel for your Node.js Application)
 - Material UI (React components for faster and easier web development)
 - Docker
