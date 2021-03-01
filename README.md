@@ -1,17 +1,15 @@
 ### 👋 Hey, I'm Leandro Atallah!
-Front-End Developer at Webera
+Front-End Developer at Company Hero
 Brazilian, Living in Juiz de Fora, MG
 
 ### 📚 What I'm currently learning
-- Redux
-- AdminBro (Auto-generated Admin Panel for your Node.js Application)
+- Jest
 - Material UI (React components for faster and easier web development)
-- Docker
 
 ### 😎 What I learned recently
+- Redux
 - Ant Design
 - SWR
-- Strapi (Open-source headless CMS)
 
 ### 💻 You can find me on
 - [Linkedin](https://www.linkedin.com/in/leandroatallah/)
