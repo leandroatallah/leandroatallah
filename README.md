@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Leandro Atallah!
-Front-End Developer at Company Hero
-Brazilian, Living in Juiz de Fora, MG
+- Front-End Developer at Company Hero
+- Brazilian, Living in Juiz de Fora, MG
 
 ### 📚 What I'm currently learning
 - Jest
