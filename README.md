@@ -4,10 +4,10 @@
 
 ### 📚 What I'm currently learning
 - Jest
-- Material UI (React components for faster and easier web development)
 
 ### 😎 What I learned recently
-- Redux
+- Prisma
+- Material UI
 - Ant Design
 - SWR
 
