@@ -1,9 +1,9 @@
 ### 👋 Hey, I'm Leandro Atallah!
-- Front-End Developer at Company Hero
+- Front-End Developer at Exame
 - Brazilian, Living in Juiz de Fora, MG
 
 ### 📚 What I'm currently learning
-- Jest
+- Python, Django and Wagtail
 
 ### 😎 What I learned recently
 - Prisma
