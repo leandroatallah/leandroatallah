@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Leandro Atallah!
 - Front-End Developer at Exame
-- Brazilian, Living in Juiz de Fora, MG
+- Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
 - Python, Django and Wagtail
