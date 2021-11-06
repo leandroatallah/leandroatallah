@@ -1,5 +1,5 @@
 ### 👋 Hey, I'm Leandro Atallah!
-- Front-End Developer at Exame
+- Front-End Engineer at Exame
 - Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
