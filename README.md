@@ -3,13 +3,14 @@
 - Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
-- Python, Django and Wagtail
+- AWS, Typescript (advanced)
 
 ### 😎 What I learned recently
+- Python (Basics)
+- Django
 - Prisma
 - Material UI
 - Ant Design
-- SWR
 
 ### 💻 You can find me on
 - [Linkedin](https://www.linkedin.com/in/leandroatallah/)
