@@ -3,14 +3,13 @@
 - Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
-- AWS, Typescript (advanced)
+- AWS
+- Typescript (advanced)
 
 ### 😎 What I learned recently
+- Redux
 - Python (Basics)
-- Django
-- Prisma
-- Material UI
-- Ant Design
+- Django Rest Framework
 
 ### 💻 You can find me on
 - [Linkedin](https://www.linkedin.com/in/leandroatallah/)
