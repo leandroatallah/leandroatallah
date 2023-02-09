@@ -1,15 +1,16 @@
 ### 👋 Hey, I'm Leandro Atallah!
-- Front-End Engineer at Exame
+- Front-End Developer at Plugify
 - Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
-- AWS
-- Typescript (advanced)
+- Java
+- 
 
 ### 😎 What I learned recently
-- Redux
+- Typescript (Intermediary)
+- Zustand and Jotai
 - Python (Basics)
-- Django Rest Framework
+- Fast API
 
 ### 💻 You can find me on
 - [Linkedin](https://www.linkedin.com/in/leandroatallah/)
