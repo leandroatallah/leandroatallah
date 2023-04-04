@@ -3,14 +3,14 @@
 - Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
-- Java
-- 
+- Node.JS (Advanced)
 
 ### 😎 What I learned recently
 - Typescript (Intermediary)
 - Zustand and Jotai
 - Python (Basics)
 - Fast API
+- Java (Basics)
 
 ### 💻 You can find me on
 - [Linkedin](https://www.linkedin.com/in/leandroatallah/)
