@@ -1,5 +1,5 @@
 ### 👋 Hey, I'm Leandro Atallah!
-- Front-End Developer at Plugify
+- Solutions Architect at Via Consulting
 - Brazilian, Living in Campinas - SP
 
 ### 📚 What I'm currently learning
